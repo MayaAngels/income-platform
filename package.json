@@ -1,0 +1,26 @@
+﻿{
+    "scripts":  {
+                    "test":  "echo \u0027No tests specified\u0027",
+                    "build":  "echo \u0027Build complete\u0027",
+                    "dev":  "node index.js",
+                    "start":  "node index.js"
+                },
+    "description":  "Autonomous Income Platform - Automated Deployment",
+    "dependencies":  {
+
+                     },
+    "version":  "1.0.0",
+    "author":  "mayaAngels",
+    "engines":  {
+                    "node":  "\u003e=18.0.0"
+                },
+    "name":  "autonomous-income-platform",
+    "main":  "index.js",
+    "license":  "MIT",
+    "keywords":  [
+                     "automation",
+                     "income",
+                     "platform",
+                     "vercel"
+                 ]
+}

@@ -1,0 +1,10 @@
+﻿# Source files not needed for deployment
+*.md
+.git/
+.gitignore
+*.ps1
+docs/
+misc/
+config/
+scripts/
+deployment_log.txt
